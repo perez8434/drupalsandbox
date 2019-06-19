@@ -2,7 +2,7 @@
 CONTENTS OF THIS FILE
 ---------------------
 
- *Testing Push from Local About Drupal
+ *Testing Branch About Drupal
  * Configuration and features
  * Installation profiles
  * Appearance
