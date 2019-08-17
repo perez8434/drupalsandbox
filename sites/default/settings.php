@@ -304,7 +304,11 @@ $settings['hash_salt'] = 'RmI16AyH2Mxkw-nPX-h_eXylcy14RDld47QjC8Bk0HRbQ6_eWJHOqh
  * TRUE back to a FALSE!
  */
 $settings['update_free_access'] = FALSE;
-
+$settings['trusted_host_patterns'] = [
+'^localhost$',                              
+'^192\.168\.00\.52$',
+'^127\.0\.0\.1$',
+];
 /**
  * External access proxy settings:
  *
